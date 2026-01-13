@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "あの紙ヒコーキ くもり空わって",
+  "base_artist": "19",
+  "createdAt": "2026-01-13T18:06:48.283055Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あの紙ヒコーキ　くもり空わって",
+      "artist": "19",
+      "has_synced": true,
+      "path": "select/01_あの紙ヒコーキ_くもり空わって_19.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あの紙ヒコーキ　くもり空わって",
+      "artist": "19",
+      "has_synced": true,
+      "path": "select/02_あの紙ヒコーキ_くもり空わって_19.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あの紙ヒコーキ　くもり空わって - Ano Kami Hikoki Kumori Zora Watte",
+      "artist": "19",
+      "has_synced": true,
+      "path": "select/03_あの紙ヒコーキ_くもり空わって_-_Ano_Kami_Hikoki_Kumori_Zora_Watte_19.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あの紙ヒコーキ くもり空わって",
+      "artist": "丸本莉子",
+      "has_synced": true,
+      "path": "select/04_あの紙ヒコーキ_くもり空わって_丸本莉子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あの紙ヒコーキ くもり空わって",
+      "artist": "19",
+      "has_synced": false,
+      "path": "select/pl_01_あの紙ヒコーキ_くもり空わって_19.txt"
+    }
+  ]
+}
